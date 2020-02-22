@@ -5,3 +5,4 @@ new line
 first commit in feature
 Secont commit in feature
 3th commit
+4th commit
